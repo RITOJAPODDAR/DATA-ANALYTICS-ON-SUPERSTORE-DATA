@@ -142,16 +142,6 @@ Run all the cells to reproduce the analysis and visualizations.
 
 ---
 
-## 🚀 Future Improvements
-
-- Create an interactive Power BI dashboard
-- Use Plotly or Seaborn for advanced visualizations
-- Perform time-series analysis
-- Build sales forecasting models
-- Develop an interactive business dashboard
-
----
-
 ## 📸 Sample Output
 
 The notebook generates multiple visualizations that provide insights into:
@@ -166,16 +156,6 @@ The notebook generates multiple visualizations that provide insights into:
 <img width="373" height="283" alt="Screenshot 2026-08-07 103430" src="https://github.com/user-attachments/assets/0bd4271c-747a-4595-a0d2-fc9e0e7d6193" />
 <img width="415" height="352" alt="Screenshot 2026-08-07 103407" src="https://github.com/user-attachments/assets/a8a01f1c-442e-4a5d-84f8-d5bf6ad90dd0" />
 
-
-Example:
-
-```markdown
-## Dashboard Preview
-
-![Sales Analysis](images/sales_analysis.png)
-
-![Profit Analysis](images/profit_analysis.png)
-```
 
 ---
 
